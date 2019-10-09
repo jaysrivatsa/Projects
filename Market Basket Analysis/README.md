@@ -27,6 +27,6 @@ Steps invoved in apriori algorithim are as follows:
 3. Calculate lift and confidence level, minimum threshold for lift should be gives as 1.
 4. Filter values based on lift and confidence.
 5. Review the rules and classify them as:
-   * Actionable Rule - Rules on which action can be taken
-   * Trivial Rule - Rules which can be understood by some domain knowledge.
-   * Inexplainable Rule - Rules which cannot be explained but are ture according to the data.
+   * ***Actionable Rule*** - Rules on which action can be taken
+   * ***Trivial Rule*** - Rules which can be understood by some domain knowledge.
+   * ***Inexplainable Rule*** - Rules which cannot be explained but are ture according to the data.
