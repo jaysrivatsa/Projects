@@ -17,8 +17,8 @@ The objective of this project is to get a glance at the power of neral networks.
 
 The number 128 represents the number of functions through which each pixel of the image is fed. The computer figures out the parameters of each function and returns one of 10 values.
 ### Various actiavtion functions used:
-1. ReLu - Rectified Linear Unit
+1. ***ReLu - Rectified Linear Unit***
    If the value is grater than zero it returns the value else it returns zero.
-2. Softmax
+2. ***Softmax***
    Of all the 10 values in the last layer it sets the maximum value to '1' and the rest to '0'. As a result of which we do not need to find 
    the maximum value instead find '1'.
