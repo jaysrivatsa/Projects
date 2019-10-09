@@ -14,3 +14,8 @@ support(A and B) = number(A and B)/ total number of observations
 Confidence is the number of time B has happened given A has happend.
 
 Confidence(A -> B) = number(B)/number(A)
+
+### 5. Lift
+Lift adds further to the confidence. If the lift is greater than 1 it means that according to the data the rules are not happening by chance.
+
+lift(A -> B) = support(A and B)/(support(A) * support(B))
