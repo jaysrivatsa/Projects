@@ -6,6 +6,9 @@ The data used in this project is linked in the data section of the project.
 ### Consequent 
 ### 1. Support 
    The first measure called the support is the number of transactions that include items in the {A} and {B} parts of the rule as a  percentage of the total number of transactions.
-   The support of the rule A\rightarrow B is given by the following probability:
-   $\frac{1}{i!}x^i$
+   support(A and B) = number of times A and B happens/ total number of observations
 ### 2. Confidence
+    The number of time event B has occured given that A has occured.
+    Confidence = number(B|A)/number(A)
+    
+    
