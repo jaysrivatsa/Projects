@@ -7,9 +7,9 @@ Anything that happens before. If a rule is A -> B then A is the antecedent.
 ### 2.Consequent 
 Anything that happens after is know as Consequent. In a rule A -> B then B is the consequent.
 ### 3. Support 
-   The first measure called the support is the number of transactions that include items in the {A} and {B} parts of the rule as a  percentage of the total number of transactions.
+The first measure called the support is the number of transactions that include items in the {A} and {B} parts of the rule as a  percentage of the total number of transactions.
    
-   support(A and B) = number(A and B)/ total number of observations
+support(A and B) = number(A and B)/ total number of observations
 ### 4. Confidence
 Confidence is the number of time B has happened given A has happend.
 
