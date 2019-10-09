@@ -11,6 +11,6 @@ Anything that happens after is know as Consequent. In a rule A -> B then B is th
    
    support(A and B) = number(A and B)/ total number of observations
 ### 4. Confidence
-    The number of time event B has occured given that A has occured.
-    
-    Confidence(A -> B) = number(B or A)/number(A)
+Confidence is the number of time B has happened given A has happend.
+
+Confidence(A -> B) = number(B)/number(A)
