@@ -11,11 +11,11 @@ The objective of this project is to get a glance at the power of neral networks.
     * Dense - 128 activation = 'relu'
     * Dense - 128 actiavation = 'relu'
     * Dense - 10 activation = 'softmax'
-3. Optiizer = 'adam'
+3. Optimizer = 'adam'
    loss = 'sparse_categorical_crossentropy'
 
 
-the number 128 represents the number of functions through which each pixel of the image is fed. The computer figures out the parameters of each function and returns one of 10 values.
+The number 128 represents the number of functions through which each pixel of the image is fed. The computer figures out the parameters of each function and returns one of 10 values.
 ### Various actiavtion used:
 1. ReLu - Rectified Linear Unit
    If the value is grater than zero it returns the value else it returns zero.
