@@ -19,3 +19,14 @@ Confidence(A -> B) = number(B)/number(A)
 Lift adds further to the confidence. If the lift is greater than 1 it means that according to the data the rules are not happening by chance.
 
 lift(A -> B) = support(A and B)/(support(A) * support(B)) 
+
+## Apriori Algorithim
+Steps invoved in apriori algorithim are as follows:
+1. Calculate support and filter based on the minimum support value.
+2. Add the rules filtered based on the support value to the frequent item list.
+3. Calculate lift and confidence level, minimum threshold for lift should be gives as 1.
+4. Filter values based on lift and confidence.
+5. Review the rules and classify them as:
+   * Actionable Rule
+   * Trivial Rule
+   * Inexplainable Rule
