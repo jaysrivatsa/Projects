@@ -11,6 +11,6 @@ The data used in this project is linked in the data section of the project.
 ### 2. Confidence
     The number of time event B has occured given that A has occured.
     
-    Confidence = number(BorA)/number(A)
+    Confidence(A -> B) = number(B or A)/number(A)
     
     
