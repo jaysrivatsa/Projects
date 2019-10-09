@@ -8,5 +8,5 @@ The data used in this project is linked in the data section of the project.
    The first measure called the support is the number of transactions that include items in the {A} and {B} parts of the rule as a  percentage of the total number of transactions.
    The support of the rule A\rightarrow B is given by the following probability:
    
-P(A\cap B)=\frac{800}{100000}= 0.8%
+\frac{n!}{k!(n-k)!}
 ### 2. Confidence
