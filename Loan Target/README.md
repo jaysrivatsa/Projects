@@ -16,9 +16,13 @@ The data set is provided in the data section of the project.
 ***Numeric Columns***
 
 1.***total_credit_card_limit*** - Total credit limit of the Customer.
+
 2.***avg_percentage_credit_card_limit_used_last_year*** - Percentage of credit limit used last year
+
 3.***saving_amount	checking_amount*** - Bank balance in the customer's savings account.
+
 4.***age*** - Age of the customer.
+
 5.***dependent_number*** - Number of dependents on the customer.
 
 
