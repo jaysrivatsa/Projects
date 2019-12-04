@@ -6,5 +6,6 @@ This repository contains all the work that I did in the field of machine learnin
 * Image Classifier
 * Loan Target
 * Market Basket Analysis
-
-
+* Fake News Classification
+* NLP
+* Airbnb Price Prediction
