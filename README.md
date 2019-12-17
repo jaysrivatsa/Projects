@@ -9,3 +9,4 @@ This repository contains all the work that I did in the field of machine learnin
 * Fake News Classification
 * NLP
 * Airbnb Price Prediction
+* Text mining and Topic Modelling
